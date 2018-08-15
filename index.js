@@ -5,6 +5,8 @@ function theBeatlesPlay(musicians, instruments) {
     // initially empty
   }
   
+  var index = 0
+  
   for (index = 0; index > musiciansLength - 1; index++) {
     return newArray
   }

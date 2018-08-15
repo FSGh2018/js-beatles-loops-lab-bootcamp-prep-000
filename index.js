@@ -15,14 +15,14 @@ var instruments = [
   ]
 
 var musicianPlaysInstrument = {
-  // initially empty
+  
 }
 
 function theBeatlesPlay(musicians, instruments) {
   var newArray = []
   
-  for (var index = 1; index > musicians.arrayLength - 1; index++) {
-    newArray.push(`${musicians[index]} plays ${instruments[index]}`)
+  for (var counter = 0; counter > musicians.arrayLength - 1; counter++) {
+    newArray.push(`${musicians[counter]} plays ${instruments[counter]}`)
   }
     return newArray
 }

@@ -1,13 +1,13 @@
 // add solution here
 
-var musicians = [
+const musicians = [
   'John Lennon',
   'Paul McCartney',
   'George Harrison',
   'Ringo'
   ]
 
-var instruments = [
+const instruments = [
   'Guitar',
   'Bass Guitar',
   'Lead Guitar',

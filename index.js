@@ -1,6 +1,11 @@
 // add solution here
 
-var musicians = []
+var musicians = [
+  'John Lennon',
+  'Paul McCartney',
+  'George Harrison',
+  'Ringo'
+  ]
 
 var instruments = []
 

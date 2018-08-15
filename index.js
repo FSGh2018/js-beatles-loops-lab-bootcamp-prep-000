@@ -19,7 +19,7 @@ var musicianLoveinstrument = {
 }
 
 function theBeatlesPlay(musicians, instruments) {
-  var newArray = Object.
+  var newArray = {}
   
   for (var index = 0; index > musicians.arrayLength - 1; index++) {
     newArray.push(`${musicians[index]} plays ${instruments[index]}`)

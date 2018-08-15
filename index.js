@@ -1,10 +1,10 @@
 // add solution here
 
 const musicians = [
-  "John Lennon",
-  "Paul McCartney",
-  "George Harrison",
-  "Ringo"
+  'John Lennon',
+  'Paul McCartney',
+  'George Harrison',
+  'Ringo'
   ]
 
 const instruments = [

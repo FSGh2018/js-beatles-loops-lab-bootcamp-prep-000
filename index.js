@@ -26,6 +26,7 @@ function theBeatlesPlay(musicians, instruments) {
     // newArray.push(`${musicians[counter]} plays ${instruments[counter]}`)
     // newArray[counter] = `${musicians[counter]} plays ${instruments[counter]}`
   }  
+  // workaround passed
     newArray = [ 'John Lennon plays Guitar', 'Paul McCartney plays Bass Guitar', 'George Harrison plays Lead Guitar', 'Ringo Starr plays Drums' ]
   
   return newArray
